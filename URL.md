@@ -44,3 +44,4 @@ add post_list to views
 
 
     
+https://tutorial.djangogirls.org/en/dynamic_data_in_templates/
