@@ -13,3 +13,10 @@
     git status
     git reset
     
+    
+    git commit -m"init"
+    
+    git push -u origin master
+    
+    
+    
